@@ -1,0 +1,26 @@
+body {
+    color: #700040;
+}
+
+.receita {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    /* background-color: aqua; */
+
+}
+
+.esquerda {
+
+    width: 60%;
+    height: 100%;
+    padding: 2rem;
+    border-right: 1px solid #700040;
+}
+
+.direita {
+
+    width: 40%;
+    height: 100%;
+    padding: 2rem;
+}
